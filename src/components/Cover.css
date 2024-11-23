@@ -1,0 +1,12 @@
+.banner-details{
+    width: 50rem;
+    padding: 15%;
+    padding-left: 5%;
+}
+.banner-details h4{
+    margin-top: 25px;
+}
+.banner-details h1{
+    font-weight: 700;
+    font-size: 55px;
+}
